@@ -81,11 +81,11 @@ const Login = () => {
     setIsSignInForm(!isSignInForm);
   };
   return (
-    <div className="w-[100vw] h-[100vh]">
+    <div className="w-[100vw] h-[110vh]">
       <Header />
       <div className="absolute">
         <img
-          className="h-[100vh] w-[120vw]"
+          className="h-[110vh] w-[100vw]"
           src="https://assets.nflxext.com/ffe/siteui/vlv3/42df4e1f-bef6-499e-87ff-c990584de314/5e7c383c-1f88-4983-b4da-06e14c0984ba/IN-en-20230904-popsignuptwoweeks-perspective_alpha_website_medium.jpg"
           alt="background image"
         />
